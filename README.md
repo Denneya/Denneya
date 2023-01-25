@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/Denneya)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Stats!
+![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
+
+
+
+
+
+
+
+
+
+
+### Contact me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denneyamuscat)
