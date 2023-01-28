@@ -20,15 +20,19 @@ Considering I began this degree with no coding experience, here are the skills I
 * Second year of uni is about to begin! This semester's subjects will be Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives. I'll be uploaded some interesting content from those subjects, particularly DVN. 
 
 ### Facts About Me
-* I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
-* I have two beautiful cats. They bring so much joy to my life (and stress!).
-* My go to music is 60's classic rock.
-* I drive in silence. I think this is from teaching high school students all day.
-* Love of fine dining even though the bank account is not. 
-* Love to learn!
+🎹 I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
+🐈‍ I have two beautiful cats. They bring so much joy to my life (and stress!).
+🎤 My go to music is 60's classic rock.
+🔇 I drive in silence. I think this is from teaching high school students all day.
+🍝 Love of fine dining even though the bank account is not. 
+📚 Love to learn!
 
 ### My Stats!
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
+
+### Some Fun/Successful Projects
+![Loading](<iframe src="https://giphy.com/embed/hRLz2uLh5AX1zPsjOS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loading-load-nadmitr-hRLz2uLh5AX1zPsjOS">via GIPHY</a></p>)
+
 
 ### Questions/Comments/Chat:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
