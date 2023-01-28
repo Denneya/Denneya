@@ -31,8 +31,7 @@ Considering I began this degree with no coding experience, here are the skills I
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
 
 ### Some Fun/Successful Projects
-<iframe src="https://giphy.com/embed/hRLz2uLh5AX1zPsjOS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loading-load-nadmitr-hRLz2uLh5AX1zPsjOS">via GIPHY</a></p>
-
+![Loading](https://github.com/Denneya/Denneya/blob/main/Cute%20Blue%20Loading%20Animation%20Video.gif)
 
 ### Questions/Comments/Chat:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
