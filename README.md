@@ -19,29 +19,16 @@ Considering I began this degree with no coding experience, here are the skills I
 * I recently began Danny Ma's **Serious SQL Challenge**. I'm looking forward to uploading the case studies once complete.
 * Second year of uni is about to begin! This semester's subjects will be Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives. I'll be uploaded some interesting content from those subjects, particularly DVN. 
 
-
-<!--
-**Denneya/Denneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Facts About Me
+* I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
+* I have two beautiful cats. They bring so much joy to my life (and stress!).
+* My go to music is 60's classic rock.
+* I drive in silence. I think this is from teaching high school students all day.
+* Love of fine dining even though the bank account is not. 
+* Love to learn!
 
 ### My Stats!
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
 
-
-
-
-
-
-### Contact me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)
+### Questions/Comments/Chat:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
