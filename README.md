@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Denneya)
 
+![Header](https://https://github.com/Denneya/Denneya/blob/main/Banner.mp4)
+
 ### Hi there 👋
 
 <!--
