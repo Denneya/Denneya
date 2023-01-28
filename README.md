@@ -2,7 +2,10 @@
 
 ![Banner](https://github.com/Denneya/Denneya/blob/main/Banner__3__AdobeExpress.gif)
 
-### Hi there 👋
+### Hello!
+My name's Denneya (pronounced Den-knee-a) and I'm currently studying to be a Data Scientist at the University of Technology, Sydney.
+I decided to explore the incredible world of data due to my curiosity of what's going on behind the scenes of how the world operates.
+I want to be challenged each day and build the knowledge required to be the best I can be!
 
 <!--
 **Denneya/Denneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### My Stats!
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
 
