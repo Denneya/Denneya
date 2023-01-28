@@ -21,10 +21,15 @@ Considering I began this degree with no coding experience, here are the skills I
 
 ### Facts About Me
 🎹 I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
+
 🐈‍ I have two beautiful cats. They bring so much joy to my life (and stress!).
+
 🎤 My go to music is 60's classic rock.
+
 🔇 I drive in silence. I think this is from teaching high school students all day.
+
 🍝 Love of fine dining even though the bank account is not. 
+
 📚 Love to learn!
 
 ### My Stats!
