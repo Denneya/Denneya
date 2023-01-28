@@ -7,6 +7,15 @@ My name's Denneya (pronounced Den-knee-a) and I'm currently studying to be a Dat
 I decided to explore the incredible world of data due to my curiosity of what's going on behind the scenes of how the world operates.
 I want to be challenged each day and build the knowledge required to be the best I can be!
 
+I began my career as a High School Music Teacher, which I then retrained to be a Mathematics Teacher and am now an aspiring Data Scientist. 
+
+Considering I began this degree with no coding experience, here are the skills I have developed throughout 2022!
+
+### My Skillset
+
+[![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://github.com/alexandresanlim/Badges4-README.md-Profile)![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+
 <!--
 **Denneya/Denneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
