@@ -31,7 +31,7 @@ Considering I began this degree with no coding experience, here are the skills I
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
 
 ### Some Fun/Successful Projects
-![Loading](<iframe src="https://giphy.com/embed/hRLz2uLh5AX1zPsjOS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loading-load-nadmitr-hRLz2uLh5AX1zPsjOS">via GIPHY</a></p>)
+![Loading](https://giphy.com/gifs/loading-load-nadmitr-hRLz2uLh5AX1zPsjOS)
 
 
 ### Questions/Comments/Chat:
