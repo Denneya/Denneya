@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Denneya)
 
-![Banner](https://github.com/Denneya/Denneya/blob/main/Banner__4__AdobeExpress.gif)
+![Banner](https://github.com/Denneya/Denneya/blob/main/Banner.gif)
 
 ### Hello!
 My name's Denneya (pronounced Den-knee-a) and I'm currently studying to be a Data Scientist at the University of Technology, Sydney.
