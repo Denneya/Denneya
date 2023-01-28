@@ -15,6 +15,10 @@ Considering I began this degree with no coding experience, here are the skills I
 
 [![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://github.com/alexandresanlim/Badges4-README.md-Profile)![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### What I'm Working On
+* I recently began Danny Ma's **Serious SQL Challenge**. I'm looking forward to uploading the case studies once complete.
+* Second year of uni is about to begin! This semester's subjects will be Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives. I'll be uploaded some interesting content from those subjects, particularly DVN. 
+
 
 <!--
 **Denneya/Denneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
