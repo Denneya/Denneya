@@ -38,7 +38,7 @@ Considering I began this degree with no coding experience, here are the skills I
 ### Some Fun/Successful Projects
 |Project Name|About|
 |---|---|
-|[Data Science and Food Waste](https://medium.com/@denneya.muscat/opportunities-for-data-science-innovation-in-the-food-sector-f27c9b7154eb)|Research task on how innovative data science methods can be used in the food sector|
+|[Data Science and Food Waste](https://github.com/Denneya/Opportunities-for-Data-Science-Innovation-in-the-Food-Sector)|Research task on how innovative data science methods can be used in the food sector|
 |[Finance Prediction](https://github.com/Denneya/linear_regression_industry_finance)|A linear regression model developed and deployed over  time series data to predict next months income|
 
 ### Questions/Comments/Chat:
