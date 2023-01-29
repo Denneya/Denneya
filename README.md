@@ -36,7 +36,10 @@ Considering I began this degree with no coding experience, here are the skills I
 ![Denneya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denneya&show_icons=true&bg_color=00000000)
 
 ### Some Fun/Successful Projects
-![Loading](https://github.com/Denneya/Denneya/blob/main/Cute%20Blue%20Loading%20Animation%20Video.gif)
+|Project Name|About|
+|---|---|
+|[Data Science and Food Waste](https://medium.com/@denneya.muscat/opportunities-for-data-science-innovation-in-the-food-sector-f27c9b7154eb)|Research task on how innovative data science methods can be used in the food sector|
+|[Finance Prediction](https://github.com/Denneya/linear_regression_industry_finance)|A linear regression model developed and deployed over  time series data to predict next months income|
 
 ### Questions/Comments/Chat:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
