@@ -40,6 +40,7 @@ Considering I began this degree with no coding experience, here are the skills I
 |---|---|
 |[Data Science and Food Waste](https://github.com/Denneya/Opportunities-for-Data-Science-Innovation-in-the-Food-Sector)|Research task on how innovative data science methods can be used in the food sector|
 |[Finance Prediction](https://github.com/Denneya/linear_regression_industry_finance)|A linear regression model developed and deployed over  time series data to predict next months income|
+|[Digging for Gold](https://github.com/Denneya/Digging_For_Gold/blob/main/README.md)|A Monte Carlo Simulation used to develop a buisness strategy over 5 years|
 
 ### Questions/Comments/Chat:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
