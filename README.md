@@ -17,7 +17,7 @@ Considering I began this degree with no coding experience, here are the skills I
 
 ### What I'm Working On
 * I recently began Danny Ma's **Serious SQL Challenge**. I'm looking forward to uploading the case studies once complete.
-* Second year of uni is about to begin! This semester's subjects will be Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives. I'll be uploaded some interesting content from those subjects, particularly DVN. 
+* Second year of uni has begun! This semester's subjects are Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives.
 
 ### Facts About Me
 🎹 I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
