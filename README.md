@@ -38,6 +38,7 @@ Considering I began this degree with no coding experience, here are the skills I
 ### Some Fun/Successful Projects
 |Project Name|About|
 |---|---|
+|[NAPLAN Analysis](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/README.md)|NLP Analysis on student surveys after they completed the Numeracy NAPLAN examination|
 |[Data Science and Food Waste](https://github.com/Denneya/Opportunities-for-Data-Science-Innovation-in-the-Food-Sector)|Research task on how innovative data science methods can be used in the food sector|
 |[Finance Prediction](https://github.com/Denneya/linear_regression_industry_finance)|A linear regression model developed and deployed over  time series data to predict next months income|
 |[Digging for Gold](https://github.com/Denneya/Digging_For_Gold/blob/main/README.md)|A Monte Carlo Simulation used to develop a buisness strategy over 5 years|
