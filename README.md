@@ -17,7 +17,7 @@ Considering I began this degree with no coding experience, here are the skills I
 
 ### What I'm Working On
 * I recently began Danny Ma's **Serious SQL Challenge**. I'm looking forward to uploading the case studies once complete.
-* Second year of uni has begun! This semester's subjects are Natural Language Processing, UNIX Systems Programming and Data Visualisation and Narratives.
+* Just completed first semester of my second year of MDSI at UTS. Love the new skills I've picked up and looking forward to sharing them here!
 
 ### Facts About Me
 🎹 I've played piano for 22 years; classically trained and hope to one day complete my AMUSA.
